@@ -18,5 +18,4 @@
    </tbody>
 </table>
 <img align="left" height="250" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" >
-	<a href="https://www.bluehost.com/track/bilal111996/" target="_blank"> <img border="0" src="https://bluehost-cdn.com/media/partner/images/bilal111996/760x80/760x80BW.png"> </a>
 </div>
