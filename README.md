@@ -12,7 +12,6 @@
       </tr>
       <tr>
                      <td style="font-family:Verdana,sans-serif;padding:0px 0px 10px;border-bottom:1px solid rgb(16,101,150);vertical-align:top" valign="top"><a href="https://www.linkedin.com/in/bilal-yaqoob-42048b142" target="_blank"><img src="https://codetwocdn.azureedge.net/images/mail-signatures/generator/compact-logo/ln.png"></a></td>
-                     <td style="font-family:Verdana,sans-serif;padding:0px 0px 10px;border-bottom:1px solid rgb(16,101,150);vertical-align:top" valign="top"><a href="https://twitter.com/Bilal48196973" target="_blank"><img src="https://codetwocdn.azureedge.net/images/mail-signatures/generator/compact-logo/tt.png"></a></td>
                      <td style="font-family:Verdana,sans-serif;padding:0px 0px 10px;border-bottom:1px solid rgb(16,101,150);vertical-align:top" valign="top"><a href="https://www.facebook.com/bilal.yaqoob2" target="_blank"><img src="https://codetwocdn.azureedge.net/images/mail-signatures/generator/compact-logo/fb.png"></a></td>
       </tr>
    </tbody>
